@@ -2,6 +2,7 @@
 using namespace std;
 
 #define ll long long
+#define int32 unsigned int
 #define all(x) (x).begin(), (x).end()
 #define allr(x) (x).rbegin(), (x).rend()
 #define countBit __builtin_popcount
