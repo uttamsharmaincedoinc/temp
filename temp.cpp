@@ -8,3 +8,6 @@ using namespace std;
 #define countBit __builtin_popcount
 #define nl "\n"
 #define printvec(arr) for(auto &x:(arr))cout<<x<<" "
+
+
+//-------------------------------------------------------------
