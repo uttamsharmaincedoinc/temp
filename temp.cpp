@@ -9,8 +9,8 @@ using namespace std;
 #define nl "\n"
 #define pb push_back
 #define printvec(arr) for(auto &x:(arr))cout<<x<<" "
-#define lbnm lower_bound
-#define ubnm upper_bound
+#define lbnd lower_bound
+#define ubnd upper_bound
 
 
 //-------------------------------------------------------------
