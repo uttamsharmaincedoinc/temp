@@ -9,8 +9,8 @@ using namespace std;
 #define nl "\n"
 #define pb push_back
 #define printvec(arr) for(auto &x:(arr))cout<<x<<" "
-#define lbnd lower_bound
-#define ubnd upper_bound
+#define lb lower_bound
+#define ub upper_bound
 
 
 vector<int> rabin_karp(string const& s, string const& t) {
