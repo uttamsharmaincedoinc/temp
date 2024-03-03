@@ -13,7 +13,7 @@ using namespace std;
 #define ub upper_bound
 
 
-vector<int> rabin_karp(string const& s, string const& t) {
+vector<int> rabin_karp(string const& s, string const& t) {  // s:pattern , t:text
     const int p = 31; 
     const int m = 1e9 + 9;
     int S = s.size(), T = t.size();
